@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\irfan\\Documents\\GitHub\\BookStore\\webapi\\WebApi.csproj": {}
+    "C:\\Users\\irfan\\Documents\\GitHub\\BookStore\\WebApi\\WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\irfan\\Documents\\GitHub\\BookStore\\webapi\\WebApi.csproj": {
+    "C:\\Users\\irfan\\Documents\\GitHub\\BookStore\\WebApi\\WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\irfan\\Documents\\GitHub\\BookStore\\webapi\\WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\irfan\\Documents\\GitHub\\BookStore\\WebApi\\WebApi.csproj",
         "projectName": "WebApi",
-        "projectPath": "C:\\Users\\irfan\\Documents\\GitHub\\BookStore\\webapi\\WebApi.csproj",
+        "projectPath": "C:\\Users\\irfan\\Documents\\GitHub\\BookStore\\WebApi\\WebApi.csproj",
         "packagesPath": "C:\\Users\\irfan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\irfan\\Documents\\GitHub\\BookStore\\webapi\\obj\\",
+        "outputPath": "C:\\Users\\irfan\\Documents\\GitHub\\BookStore\\WebApi\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\irfan\\AppData\\Roaming\\NuGet\\NuGet.Config",
